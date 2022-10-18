@@ -1,6 +1,8 @@
 # ais7_demo
 멋쟁이 사자처럼 AIS7 실습
 
+https://raw.githubusercontent.com/hyejinWooo/ais7_demo/main/Pngtreecute_rich_lion_animal_characters_5905966.png
+
 # 제목 1
 * 내용 1
 * 내용 2
