@@ -58,3 +58,6 @@ st.pyplot(fig)
 
 pxh = px.histogram(data, x="origin", title = "지역별 자동차 연비 데이터 수")
 st.plotly_chart(pxh)
+
+cp = sns.catplot(data=data, x='horsepower', y='weight', hue='origin', ci=None)
+st.pyplot(cp)
