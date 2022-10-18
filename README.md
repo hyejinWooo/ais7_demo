@@ -3,6 +3,10 @@
 
 <img src = https://raw.githubusercontent.com/hyejinWooo/ais7_demo/main/Pngtreecute_rich_lion_animal_characters_5905966.png width="300" height="300">
 
+```python
+print("hello")
+```
+
 # 제목 1
 * 내용 1
 * 내용 2
